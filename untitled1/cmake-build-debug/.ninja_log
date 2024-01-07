@@ -1,0 +1,15 @@
+# ninja log v5
+12	93	7260083731873192	CMakeFiles/untitled1.dir/management.c.obj	fe7a55cf426d3b9e
+95	184	7260125565793135	untitled1.exe	11d49c95f945d646
+2	98	7260120421939434	CMakeFiles/untitled1.dir/main.c.obj	f7181177db029ebb
+2	95	7260125564932187	CMakeFiles/untitled1.dir/login.c.obj	fcf0b07a054d9ca8
+10	107	7260120422019472	CMakeFiles/untitled1.dir/patient.c.obj	da2e68cbb0fb3f9f
+1	218	7260127473439803	build.ninja	6e1c6b097b9c306e
+3	112	7260134227819464	CMakeFiles/untitled1.dir/main.c.obj	f7181177db029ebb
+8	114	7260134227839979	CMakeFiles/untitled1.dir/login.c.obj	fcf0b07a054d9ca8
+3	94	7260135617045217	CMakeFiles/untitled1.dir/patient.c.obj	da2e68cbb0fb3f9f
+96	191	7260135617971608	untitled1.exe	11d49c95f945d646
+10	182	7262502071824886	CMakeFiles/untitled1.dir/patient.c.obj	da2e68cbb0fb3f9f
+2	182	7262502071794886	CMakeFiles/untitled1.dir/main.c.obj	f7181177db029ebb
+14	192	7262502071930395	CMakeFiles/untitled1.dir/login.c.obj	fcf0b07a054d9ca8
+193	449	7262502074489373	untitled1.exe	11d49c95f945d646
